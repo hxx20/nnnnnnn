@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774479138599",
+    "project_id": "myapp-8af8c",
+    "storage_bucket": "myapp-8af8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774479138599:android:58b66d72209628843ea302",
+        "android_client_info": {
+          "package_name": "ac.dongyang.smartapp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774479138599-ff0hd9fdtcmcneil4svfe395crchtuc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPJz5PkV0rXYf8GRKDKUGS7TWUQTL4Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774479138599-ff0hd9fdtcmcneil4svfe395crchtuc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
